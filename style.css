@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: linear-gradient(yellow 50%,blue 50%);
+}
+h1{
+    font-size: 40px;
+}
+#apps{
+    background:linear-gradient(lime 10%,yellow 100%);
+}
+#carrossel{
+    background:linear-gradient(yellow 10%,blue 70%);
+}
+#carrossel img{
+ height: 300px;
+}
+.linha{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#carrossel p{
+    font-size: 20px;
+    color: black;
+}
+
